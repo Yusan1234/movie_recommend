@@ -19,5 +19,3 @@ streamlit run app.py
 
 ## streamlit cloudによる公開
 [公開したアプリ](https://movierecommender-ks5bdb5bjsvusrhyakaogb.streamlit.app/)
-# movie_recommend
-# movie_recommend
