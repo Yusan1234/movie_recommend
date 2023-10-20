@@ -17,5 +17,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## streamlit cloudによる公開
-[公開したアプリ](https://movierecommender-ks5bdb5bjsvusrhyakaogb.streamlit.app/)
+## streamlit cloud
+[AppLink](https://movierecommend-8bs3xecncoep3zpulretey.streamlit.app/)
